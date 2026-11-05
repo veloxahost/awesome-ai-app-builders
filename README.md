@@ -45,7 +45,7 @@ Traditional site builders that added AI generation — best for marketing sites 
 
 ## Prompt libraries
 
-- [veloxahost/veloxa-build-prompts](https://github.com/veloxahost/veloxa-build-prompts) — 30 tested prompts for business sites, portfolios, SaaS pages and mini-apps, with one-click buttons. Works in any builder.
+- [veloxahost/veloxa-build-prompts](https://github.com/veloxahost/veloxa-build-prompts) — 30 structured prompts for business sites, portfolios, SaaS pages and mini-apps, with one-click buttons. Works in any builder.
 
 ## Hosting what you built
 
